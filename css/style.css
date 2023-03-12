@@ -622,7 +622,7 @@ footer .social-link li a:hover {
     right: 40px;
     width: 30px;
     height: 30px;
-    background: url(/img/menu.svg);
+    background: url(img/menu.svg);
     filter: invert(1);
     background-size: 30px;
     cursor: pointer;
@@ -630,7 +630,7 @@ footer .social-link li a:hover {
     z-index: 1000;
   }
   .menu-icon.active {
-    background: url(/img/close.svg);
+    background: url(img/close.svg);
     filter: invert(1);
     background-size: 30px;
     cursor: pointer;
