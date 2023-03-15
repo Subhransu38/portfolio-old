@@ -430,7 +430,7 @@ footer .social-link li a:hover {
   min-height: 220px;
   margin-bottom: 10px;
 }
-.input-box input[type="submit"] {
+.input-box button {
   background: #ff2562;
   color: #fff;
   border: none;
@@ -441,7 +441,7 @@ footer .social-link li a:hover {
   padding: 14px 15px;
 }
 
-.input-box input[type="submit"]:hover {
+.input-box button:hover {
   background: #fff;
   color: #ff2562;
 }
